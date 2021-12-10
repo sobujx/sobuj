@@ -2,12 +2,3 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: false
   
- @import "{{ site.theme }}";
-
-footer {
-  display: none !important;
-}
-
-.btn {
-  display: none !important;
-}
